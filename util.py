@@ -8,8 +8,6 @@ import logging
 import os
 import warnings
 
-from configNI import client_id, client_secret
-
 import spotipy
 
 LOGGER = logging.getLogger(__name__)
