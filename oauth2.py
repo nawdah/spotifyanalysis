@@ -19,8 +19,6 @@ import time
 import warnings
 import webbrowser
 
-from configNI import client_id, client_secret
-
 import requests
 # Workaround to support both python 2 & 3
 import six
@@ -109,7 +107,7 @@ class SpotifyAuthBase(object):
 
     @client_id.setter
     def client_id(self, val):
-        self._client_id = _ensure_value(val, client_id)
+        self._client_id = _ensure_value(val, "client_id")
 
     @property
     def client_secret(self):
