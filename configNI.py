@@ -1,2 +1,4 @@
-client_id='dd4ae8034c76470b9342da2b9b001b37'
-client_secret='805a4fac443741f5bbd177184ae13f44'
+#Genius Client ID/Secret
+client_id='aOqfkhFl3SugxRfRWP6RKgWNLJNHFt4oKwOmBy_RSkuoDGSc23lPnmPy0dtG6pfG'
+client_secret='7qqQ6gFXwlEh-OLX8jV-qTQtLHBliBJgPRSWqzgq__r1FP0-9oYneC1qWvg_OvDKQ9dzYExrmBrRMIVNO0qUPA'
+client_token='xUpYCh3zoUgXqzZEh91IQdvhnmzZfnfIfHTTLaQniAiUEa-FUsrAfeb2qImCjqqw'
